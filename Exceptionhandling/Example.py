@@ -30,3 +30,4 @@ try:
     order.apply_discount(discount_amount)  # Apply discount
 except ValueError as e:
     print(f"Discount failed. {e}")
+    
