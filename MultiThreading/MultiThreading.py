@@ -13,7 +13,6 @@ def displayDigits(li1):
         time.sleep(2)
         
 def displayLetters(li2):
-    print(t1.is_alive())
     print(threading.current_thread())
     for i in li2:
         print(i)
