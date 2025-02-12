@@ -1,3 +1,4 @@
+
 # Scripting way for writing the code
 print("Hello World")
 # Procedural way of writing the code
@@ -11,4 +12,3 @@ class Demo:
         print("Object oriented way of hello world")
 d1 = Demo()
 d1.instance_method()
-
